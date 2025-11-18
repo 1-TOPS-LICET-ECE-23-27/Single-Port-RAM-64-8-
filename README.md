@@ -1,4 +1,4 @@
-# 📝## **64×8 Single-Port RAM – Verilog HDL Implementation**
+# 📝 **64×8 Single-Port RAM – Verilog HDL Implementation**
 
 
 ---
